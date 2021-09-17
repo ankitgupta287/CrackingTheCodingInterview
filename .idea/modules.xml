@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CheckPermutation/CheckPermutation.iml" filepath="$PROJECT_DIR$/CheckPermutation/CheckPermutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CrackingTheCodingInterview.iml" filepath="$PROJECT_DIR$/CrackingTheCodingInterview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsUnique/IsUnique.iml" filepath="$PROJECT_DIR$/IsUnique/IsUnique.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OneWay/OneWay.iml" filepath="$PROJECT_DIR$/OneWay/OneWay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PalindromePermutation/PalindromePermutation.iml" filepath="$PROJECT_DIR$/PalindromePermutation/PalindromePermutation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/URLify/URLify.iml" filepath="$PROJECT_DIR$/URLify/URLify.iml" />
+    </modules>
+  </component>
+</project>
